@@ -372,7 +372,7 @@ export default function Portfolio() {
         <header className="lg:sticky lg:top-0 lg:flex lg:max-h-screen lg:w-[48%] lg:flex-col lg:justify-between lg:py-24">
           <div>
             <h1 className={`text-4xl font-bold tracking-tight sm:text-5xl ${t.heading}`}>
-              Aldrin Mel Alanzalon
+              Aldrin Mel Alanzalons
             </h1>
             <h2 className={`mt-3 text-lg font-medium tracking-tight sm:text-xl ${t.heading}`}>
               IT Support Specialist | Admin Staff | Aspring Frontend Developer

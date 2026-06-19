@@ -1,0 +1,5 @@
+/* 1. Google Font must be imported first */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+
+/* 2. Tailwind v4 uses this new syntax instead of the old @tailwind directives */
+@import "tailwindcss";

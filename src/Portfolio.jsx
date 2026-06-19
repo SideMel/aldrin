@@ -332,7 +332,7 @@ export default function Portfolio() {
       {/* Mobile top bar */}
       <div className={`lg:hidden flex items-center justify-between px-6 py-4 sticky top-0 z-30 ${t.topbar} backdrop-blur transition-colors duration-300`}>
         <span className={`font-bold text-lg ${t.heading}`}>
-          Aldrin Mel Alanzalons
+          Aldrin Mel Alanzalon
         </span>
         <div className="flex items-center gap-4">
           <button onClick={() => setMenuOpen(!menuOpen)} className={`${t.heading} transition-colors`}>
